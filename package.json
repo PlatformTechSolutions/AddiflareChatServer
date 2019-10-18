@@ -1,0 +1,10 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "dedicated chat server to overcome the server load",
+  "main": "index.js",
+  "repository": "https://github.com/PlatformTechSolutions/AddiflareChatServer.git",
+  "author": "DilipCoder",
+  "license": "MIT",
+  "private": false
+}
